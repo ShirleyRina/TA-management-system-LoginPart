@@ -1,11 +1,13 @@
 # Express Node.js App for Backend
+
 rest-api-express-nodejs-app
 
-
 ## Description
+
 Express.js Node.js app for backend, Rest API, and Prisma ORM.
 
 ## Project Structure
+
 ```
 ├── jest.config.js
 ├── package.json
@@ -24,22 +26,37 @@ Express.js Node.js app for backend, Rest API, and Prisma ORM.
 ## Installation
 
 ### `npm install`
+
 Start your database server on port 3306, and run the following command to create the database schema:
+
 ### `npx prisma db push`
 
 ## Available Script
+
 ### `npm test`
+
 run your test cases with jest and supertest
 
-
 ### `npm run dev`
+
 run your application in development mode
 
 ### `npm run build`
+
 build your application to dist folder
 
 ### `npm run start`
+
 run your application in production mode
+
 ## References
+
 Testing with Jest and Supertest(Javascript): https://www.albertgao.xyz/2017/05/24/how-to-test-expressjs-with-jest-and-supertest/
 Best Practice with nodejs: https://github.com/goldbergyoni/nodebestpractices?ref=blog.treblle.com
+=======
+
+# TA-management-system-LoginPart
+
+The TA management system login and logout part, full stack, front-end/back-end separation
+
+> > > > > > > 2f795fa84ba67cbf767e3089df9b2171cb1ae457
