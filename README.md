@@ -1,3 +1,7 @@
+# TA-management-system-LoginPart
+
+The TA management system login and logout part, full stack, front-end/back-end separation
+
 # Express Node.js App for Backend
 
 rest-api-express-nodejs-app
@@ -49,14 +53,8 @@ build your application to dist folder
 
 run your application in production mode
 
-## References
 
-Testing with Jest and Supertest(Javascript): https://www.albertgao.xyz/2017/05/24/how-to-test-expressjs-with-jest-and-supertest/
-Best Practice with nodejs: https://github.com/goldbergyoni/nodebestpractices?ref=blog.treblle.com
 =======
 
-# TA-management-system-LoginPart
 
-The TA management system login and logout part, full stack, front-end/back-end separation
 
-> > > > > > > 2f795fa84ba67cbf767e3089df9b2171cb1ae457
